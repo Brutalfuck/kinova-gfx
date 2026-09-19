@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Example GFX Config",
+    "description": "Apna pak file files/ folder mein upload karo aur yahan link badlo",
+    "display_order": 1,
+    "filename": "game_patch_1.pak",
+    "file_type": "pak",
+    "target_path": "",
+    "gdrive_link": "https://github.com/Brutalfuck/kinova-gfx/blob/main/files/game_patch_1.pak",
+    "preview_url": "",
+    "thumbnail_url": "",
+    "gfx_configs_json": "",
+    "license_key": ""
+  }
+]
