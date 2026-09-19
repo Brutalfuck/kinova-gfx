@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": 1,
+    "type": "UPDATE",
+    "title": "Welcome to Kinova GFX",
+    "message": "Kinova GFX ab fully live hai! Updates ke liye Telegram join karo: t.me/KinovaOfficial",
+    "image_url": null,
+    "created_at": "2026-09-19T12:00:00Z"
+  }
+]
