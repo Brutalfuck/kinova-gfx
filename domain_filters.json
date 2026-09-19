@@ -1,1 +1,1482 @@
-[]
+[
+ {
+  "domain": "0.igame.download.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "03tencent.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "153.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "2.1950038955.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "20playrix.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "3002-shadow.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "30bitdrop.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "32bit.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "35419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "49.51download.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "99games.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "aaptencentgames.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "account.qcloud.com",
+  "type": "block"
+ },
+ {
+  "domain": "account.tingyun.com",
+  "type": "block"
+ },
+ {
+  "domain": "accounts.krafton.com",
+  "type": "block"
+ },
+ {
+  "domain": "acekeeper.anticheatexpert.com",
+  "type": "block"
+ },
+ {
+  "domain": "ad.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "admin.alerts.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "adserver.admin.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "adserver.tencentgames.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "alerts.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "analytics.m.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "android.bugly.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "android.crash.sight.wetest.net",
+  "type": "block"
+ },
+ {
+  "domain": "android.crashlight.wetest.net",
+  "type": "block"
+ },
+ {
+  "domain": "android.crashsight.wetest.net",
+  "type": "block"
+ },
+ {
+  "domain": "android.perfsight.wetest.net",
+  "type": "block"
+ },
+ {
+  "domain": "anti-cheat.tencent.com",
+  "type": "block"
+ },
+ {
+  "domain": "anticheatexpert.com",
+  "type": "block"
+ },
+ {
+  "domain": "apache.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "apd-pcdnwxnat.teg.tencent-cloud.net",
+  "type": "block"
+ },
+ {
+  "domain": "apd-pcdnwxstat.teg.tencent-cloud.net",
+  "type": "block"
+ },
+ {
+  "domain": "api-club-in.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "api.club.gpubgm.com",
+  "type": "block"
+ },
+ {
+  "domain": "api.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "apm.wetest.net",
+  "type": "block"
+ },
+ {
+  "domain": "app.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "app.krmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "apps.krmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "aptest.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "asia.cschannel.anticheatexpert.com",
+  "type": "block"
+ },
+ {
+  "domain": "asia.csoversea.mbgame.anticheatexpert.com",
+  "type": "block"
+ },
+ {
+  "domain": "asping.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "astat.bugly.qcloud.com",
+  "type": "block"
+ },
+ {
+  "domain": "aulaup.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "auth.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "auth.tencentgames.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "b-7pubgmvn.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "bk-hn.voice.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "bnea.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "c.isdspeed.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "castatic.fengkongcloud.com",
+  "type": "block"
+ },
+ {
+  "domain": "cdn.club.gpubgm.com",
+  "type": "block"
+ },
+ {
+  "domain": "cdp.qcloud.com",
+  "type": "block"
+ },
+ {
+  "domain": "chatbooks.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "check.tencent.com",
+  "type": "block"
+ },
+ {
+  "domain": "clientreport.gfm.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "cloud.gsdk.proximabeta.com",
+  "type": "block"
+ },
+ {
+  "domain": "cloud.tgpa.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "cloud2.gsdk.proximabeta.com",
+  "type": "block"
+ },
+ {
+  "domain": "cloudcache.tencent-cloud.com",
+  "type": "block"
+ },
+ {
+  "domain": "cloudctrl.igamecj.com",
+  "type": "block"
+ },
+ {
+  "domain": "cms.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "com.tencent.ig",
+  "type": "block"
+ },
+ {
+  "domain": "consolev2.gcloud.qq",
+  "type": "block"
+ },
+ {
+  "domain": "corp.krmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "crashsight.wetest.net",
+  "type": "block"
+ },
+ {
+  "domain": "critical-force.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "crowdstar.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "cs.mbgame.anticheatexpert.com",
+  "type": "block"
+ },
+ {
+  "domain": "cschannel.anticheatexpert.com",
+  "type": "block"
+ },
+ {
+  "domain": "csoversea.mbgame.anticheatexpert.com",
+  "type": "block"
+ },
+ {
+  "domain": "csoversea.mbgame.gamesafe.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "daisuke21.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "daisuke2110.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "dbdmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "developer.qcloudimg.com",
+  "type": "block"
+ },
+ {
+  "domain": "development.pubg.krmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "development.qq.com.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "devsql.pubg.krmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "dlied1.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "dmz.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "dmz.pubg.krmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "dns.download.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "dns0.block.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "dns0.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "dns8.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "dns9.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "down.anticheatexpert.com",
+  "type": "block"
+ },
+ {
+  "domain": "down.im.qcloud.com",
+  "type": "block"
+ },
+ {
+  "domain": "down.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "downliad.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "download.1.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "download.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "download.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "download.2.1950038955.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "download.2.1955135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "download.20200511154419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "download.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "download.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "download.puffer.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "download1.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "download2.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "downloads.1.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "downloads.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "downlod.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "envision.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "epicgames.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "expediasupporthelpcenter.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "faceid.ipv6.tencentcloudapi.com",
+  "type": "block"
+ },
+ {
+  "domain": "file-igamecj.akamaized.net",
+  "type": "block"
+ },
+ {
+  "domain": "file.igamecj.com",
+  "type": "block"
+ },
+ {
+  "domain": "fileserver.krmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "firewall.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "firewall.krmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "flightraja.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "flipboard.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "forum.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "fragcweb.de.1255763977.clb.myqcloud.com",
+  "type": "block"
+ },
+ {
+  "domain": "game-security.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "gamelootnetwork.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "games.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "gcloud.arenabreakout.com",
+  "type": "block"
+ },
+ {
+  "domain": "gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "generagames.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "giftpubg.pubg.fit",
+  "type": "block"
+ },
+ {
+  "domain": "git.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "gitlab.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "global.cschannel.anticheatexpert.com",
+  "type": "block"
+ },
+ {
+  "domain": "glumobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "grpc.club.gpubgm.com",
+  "type": "block"
+ },
+ {
+  "domain": "gumi.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "gvoice-config.igamecj.com",
+  "type": "block"
+ },
+ {
+  "domain": "gw.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "gz.apigw.tencentcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "hao.pubg.fit",
+  "type": "block"
+ },
+ {
+  "domain": "hdownload.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "hhru.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "hn.voice.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "host.block.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "host.qq.com.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "host.us.comhelp.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "host0.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "host10.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "host10000000001.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "host19.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "host6.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "host7.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "hotheadgames.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "httpdownload.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "hy.pubgm.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "idcconcig.gcloud.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "idrive.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "ig-us-notice.igamecj.com",
+  "type": "block"
+ },
+ {
+  "domain": "ig-us-sdkapi.igamecj.com",
+  "type": "block"
+ },
+ {
+  "domain": "igame.gcloudcs",
+  "type": "block"
+ },
+ {
+  "domain": "igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "images.pubg.krmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "in-cloudctrl.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "in-comm1.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "in-crash-android.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "in-csoversea.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "in-f.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "in-lobby.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "in-notice.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "in-safe.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "in-sdkapi.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "in-voiceconfig.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "in3-f.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "innospark.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "intlsdk.igamecj.com",
+  "type": "block"
+ },
+ {
+  "domain": "intltencentcos.com",
+  "type": "block"
+ },
+ {
+  "domain": "iot-tencent.com",
+  "type": "block"
+ },
+ {
+  "domain": "ipv4.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "jodotech.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "join.tencentmusic.com",
+  "type": "block"
+ },
+ {
+  "domain": "keeptruckin.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "krlobby.igamecj.com",
+  "type": "block"
+ },
+ {
+  "domain": "krpubg.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "lifelock.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "limingcloud.com",
+  "type": "block"
+ },
+ {
+  "domain": "linux.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "local.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "log.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "luehole.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "main.qcloudimg.com",
+  "type": "block"
+ },
+ {
+  "domain": "mediconecta.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "mgl.dowload2.21375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "mgl.download.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "mgl.public.igamecj",
+  "type": "block"
+ },
+ {
+  "domain": "mgl.public.igamecj.com",
+  "type": "block"
+ },
+ {
+  "domain": "min-pay.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "mindsea.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "mn-bundle-tencent.risefromdisaster.cn",
+  "type": "block"
+ },
+ {
+  "domain": "mobeam.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "mobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "mta.pubgmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "mx.pubg.krmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "my-qcloud.com",
+  "type": "block"
+ },
+ {
+  "domain": "na.pandora.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "namida.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "napubgm.broker.amsoveasea.com",
+  "type": "block"
+ },
+ {
+  "domain": "napubgmvn.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "ndownload.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "novelba.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "npuffer.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "ns.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "ns1.block.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "ns11.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "office.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "ookbee.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "open.biligame.com",
+  "type": "block"
+ },
+ {
+  "domain": "os8.api.unipay.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "outplay.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "ownload.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "paffer.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "pandorasdk.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "patchwiki.biligame.com",
+  "type": "block"
+ },
+ {
+  "domain": "pay.igamecj",
+  "type": "block"
+ },
+ {
+  "domain": "pay.igamecj.com",
+  "type": "block"
+ },
+ {
+  "domain": "pay.igamecj.com.eo.dnse1.com",
+  "type": "block"
+ },
+ {
+  "domain": "pay.igamecj.comapp.adjust.com",
+  "type": "block"
+ },
+ {
+  "domain": "pingma.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "pixelberrystudios.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "project529.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "pubg.adjust",
+  "type": "block"
+ },
+ {
+  "domain": "pubg.adjust.com",
+  "type": "block"
+ },
+ {
+  "domain": "pubg.krmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "pubg.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "pubgglobal.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "pubghacking.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "pubgmlite.com",
+  "type": "block"
+ },
+ {
+  "domain": "pubgmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "pubgmpdrcdn.amsoveasea.com",
+  "type": "block"
+ },
+ {
+  "domain": "pubgmtw.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "pubgmvn.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "pubgvn.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.1.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.10.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.3.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.4.1002112598.in-dmp.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.4.1055112116.hdl.download.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.4.1375135419.igame.download.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.4.1950038955.igamekr.download.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.41375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.5.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.6.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.7.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer1.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer2.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer5.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "puffer9.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "pyleaudio.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "qccommunity.qcloudimg.com",
+  "type": "block"
+ },
+ {
+  "domain": "qcloudtrip.com",
+  "type": "block"
+ },
+ {
+  "domain": "qos.hk.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "qq.com.cn",
+  "type": "block"
+ },
+ {
+  "domain": "r.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "realtime.api.biligame.com",
+  "type": "block"
+ },
+ {
+  "domain": "recentgames.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "resoltz.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "riot-mtp.anticheatexpert.com",
+  "type": "block"
+ },
+ {
+  "domain": "safeguard.tencent.com",
+  "type": "block"
+ },
+ {
+  "domain": "sdk.qcloud.com",
+  "type": "block"
+ },
+ {
+  "domain": "sdksp.video.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "seated.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "server100.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "sg.tux.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "share.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "sip.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "smtp.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "spay.igamecj.com",
+  "type": "block"
+ },
+ {
+  "domain": "speed.ino.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "sq1.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "sq11.pg.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "sq12.pg.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "sq2.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "sq3.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "sq9.pg.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "sqimg.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "sqlobby.pg.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "sqlobby.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "sskill.weimigames.com",
+  "type": "block"
+ },
+ {
+  "domain": "stargamegos.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "static.biligame.com",
+  "type": "block"
+ },
+ {
+  "domain": "stats.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "stats.pubg.krmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "supercellsupport.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "svn.tencentgames.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "szmg.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "t.gdt.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "t4puffer.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "tabtrader.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "tagiato.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "tancentgemes.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "tdm.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "tdos.tencent.com",
+  "type": "block"
+ },
+ {
+  "domain": "teacherkit.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "technimo.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "tencent-cloud.cn",
+  "type": "block"
+ },
+ {
+  "domain": "tencent-cloud.com",
+  "type": "block"
+ },
+ {
+  "domain": "tencent-cloud.net",
+  "type": "block"
+ },
+ {
+  "domain": "tencent.com.cn",
+  "type": "block"
+ },
+ {
+  "domain": "tencent.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "tencent.iglite.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "tencentcos.cn",
+  "type": "block"
+ },
+ {
+  "domain": "tencentdevices.com",
+  "type": "block"
+ },
+ {
+  "domain": "tencentgamas.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "tencentgames.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "tencentgames.helpshiftencentgames.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "tencentgsmes.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "tencentiglite.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "tencentscf.com",
+  "type": "block"
+ },
+ {
+  "domain": "tencenttcr.com",
+  "type": "block"
+ },
+ {
+  "domain": "tencenttymaas.com.cn",
+  "type": "block"
+ },
+ {
+  "domain": "tencentyuanbao.com",
+  "type": "block"
+ },
+ {
+  "domain": "test.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "this-game-studio.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "tools-wiki.biligame.com",
+  "type": "block"
+ },
+ {
+  "domain": "tophatch.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "tpuffer.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "tracker.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "tss.tencent",
+  "type": "block"
+ },
+ {
+  "domain": "tss.tencent.com",
+  "type": "block"
+ },
+ {
+  "domain": "turborilla.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "twiter.helpshift",
+  "type": "block"
+ },
+ {
+  "domain": "ubgmvn.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "ugc.ame.qcloud.com",
+  "type": "block"
+ },
+ {
+  "domain": "unduh.2.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "upload.pubg.krmobile.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "usa.csoversea.mbgame.anticheatexpert.com",
+  "type": "block"
+ },
+ {
+  "domain": "v.tencentmind.com",
+  "type": "block"
+ },
+ {
+  "domain": "vca-inc.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "vivino.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "vizor.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "vmp.qq.com",
+  "type": "block"
+ },
+ {
+  "domain": "vngpubg.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "vod.qcloud.com",
+  "type": "block"
+ },
+ {
+  "domain": "voice-qos.globh.com",
+  "type": "block"
+ },
+ {
+  "domain": "vpn.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "wallapop.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "web.gcloud.igamecj.com",
+  "type": "block"
+ },
+ {
+  "domain": "web.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "web1.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "web2test.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "ws-hn.voice.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "www.epicgames.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "www.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "www.moxigame.cn",
+  "type": "block"
+ },
+ {
+  "domain": "www.nextage.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "www.pubgmobile.com",
+  "type": "block"
+ },
+ {
+  "domain": "www.puffer.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "www.puffer1.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "www.puffer2.4.1375135419.igame.gcloudcs.com",
+  "type": "block"
+ },
+ {
+  "domain": "www.qq.com.cn",
+  "type": "block"
+ },
+ {
+  "domain": "www.todosupport.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "x.pubg.fit",
+  "type": "block"
+ },
+ {
+  "domain": "xml.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "yondermusic.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "zebramo.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "zipt.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "zworkbench.helpshift.com",
+  "type": "block"
+ },
+ {
+  "domain": "zyngasupport.helpshift.com",
+  "type": "block"
+ }
+]
