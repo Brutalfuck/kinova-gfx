@@ -1,37 +1,19 @@
-# Kinova GFX — Server Files (GitHub)
+# Kinova GFX — Server (GOKU style folders)
 
-Ye repo app ka poora server hai. Sab files yahan se load hoti hain.
+## Naya pack add karna / pak daalna:
+1. `configs/` mein folder mein jao (jaise `2_60fps`)
+2. "Add file" -> "Upload files" -> apni .pak file daalo
+   (naam: game_patch.pak — FPS wale folder mein: game_patch_4.5.0.21377.pak)
+3. Bas! App mein download button kaam karne lagega
 
-## File kaam kya karti hai
+## Image badalni ho:
+Usi folder mein nayi image `image.png` naam se upload karo — replace ho jayegi.
 
-| File | Kaam |
-|---|---|
-| app_config.json | App settings — telegram links, title, logo |
-| gfx_configs.json | GFX presets list (app mein dikhta hai) |
-| domain_filters.json | VPN ke extra block/allow domains |
-| filters.json | VPN ki main filter list (43KB, pehle se bhari hui) |
-| firewall_rules.json | VPN on/off flag (is_active) |
-| app_updates.json | Update check — naya version notify |
-| broadcasts.json | Announcements (abhi khaali) |
-| verify_license.json | App ka "license valid" jawaab (hamesha active) |
-| fps/apply | FPS patch lagane ka jawaab — pak file ka link yahan |
-| fps/remove_config | FPS patch hatane ka jawaab |
-| files/ | Tumhari .pak files + patches yahan upload karo |
+## Poori nayi pack banana ho:
+1. `configs/` mein "Create new file" -> naam: `8_mera_pack/README.txt` -> commit (folder ban gaya)
+2. Us folder mein `image.png` aur `game_patch.pak` upload karo
+3. `gfx_configs.json` mein ek entry jodo (aakhri wali copy karke badlo)
 
-## Naya version release karna ho to
-1. Naya APK banao/lo
-2. GitHub repo -> Releases -> "Draft a new release" -> tag: v1.1
-3. APK file ko release mein upload karo
-4. app_updates.json kholo:
-   - version_code: 460 se badha do (461)
-   - version_name: nayi version
-   - changelog: kya naya hai
-   - download_url: nayi release ka APK link
-5. Commit karo — bas! Purane users ko update popup dikhega
-
-## Telegram change karna ho to
-app_config.json mein telegram_link_1 aur telegram_link_2 badlo.
-
-## VPN domain block karna ho to
-domain_filters.json mein add karo:
-[{"domain": "example.com", "type": "block"}]
+## Baaki files:
+app_config.json (telegram/title), domain_filters.json (370 domains),
+filters.json (VPN), app_updates.json (update), broadcasts.json (announcement)
